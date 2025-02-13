@@ -1,4 +1,4 @@
-# README: Vegetation Indices Analysis in Sundarbans Using Sentinel-2 Data
+# Vegetation Indices Analysis in Sundarbans Using Sentinel-2 Data
 
 ## Overview
 
@@ -168,3 +168,8 @@ Due to improved sensitivity the variation in density in lighter vegetation areas
 ## Conclusion
 
 The vegetation indices computed from the Sentinel-2 satellite data provide valuable insights into vegetation health, forest coverage, and land-water distribution in the Sundarbans region. NDVI, RENDVI, and EVI each offer distinct advantages and can be used together for more comprehensive vegetation analysis.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
